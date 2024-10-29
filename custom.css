@@ -1,0 +1,14 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+
+
+
+h2{font-family: "Carrois Gothic SC", serif; font-weight: 400; font-style: normal;}
+p{font-family: "Noto Sans", sans-serif;}
+
+ul {list-style-image: url('pizzadot.png');}
+
+
+.bg-primary {background-color: #450084 !important;}
+.bg-gold {background-color: #F4EFE1 !important;}
